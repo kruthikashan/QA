@@ -1,6 +1,6 @@
-streamlit==1.8.0
-transformers==4.5.1
-torch==1.8.1
-numpy==1.20.3
-scikit-learn==0.24.2
-matplotlib==3.4.2
+streamlit
+transformers
+torch
+numpy
+scikit-learn
+matplotlib
